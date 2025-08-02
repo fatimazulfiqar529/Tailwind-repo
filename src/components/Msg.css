@@ -1,0 +1,66 @@
+.msg{
+    margin:100px auto 0 auto;
+   max-width: 350px;
+    width: 100%;
+    min-height:350px;
+    border: 10px black solid;
+    border-radius: 20px;
+}
+.msg:hover{
+    background-color: #e2F6F6;
+}
+
+#butt{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: medium;
+    color:#17BAB5;
+    border: 2px #17BAB5 solid;
+    border-radius: 5px;
+    background-color: white;
+    width:140px;
+}
+#butt:hover{
+      font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: medium;
+    color:white;
+    border: 2px #17BAB5 solid;
+    border-radius: 5px;
+    background-color: #17BAB5;
+    width: 140px;
+}
+#sign{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: medium;
+    color:#E2F6F6;
+    border: 2px #E2F6F6 solid;
+    border-radius: 5px;
+    background-color: teal;
+    width: 70px;
+}
+#sign:hover{
+      font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: medium;
+    color:TEAL;
+    border: 2px TEAL solid;
+    border-radius: 5px;
+    background-color: #e2F6F6;
+    width: 70px;
+}
+input[type="text"],input[type="password"]{
+   height:30px;
+    width:200px;
+     border: 1px teal solid;
+    border-radius: 5px;
+     color:lightpink;
+    font-family: arial;
+    text-align: center;
+    font-size: 16px;
+
+}
+input[type="text"]:hover,input[type="password"]:hover{
+    background-color: beige;
+}

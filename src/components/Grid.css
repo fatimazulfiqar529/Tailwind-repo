@@ -1,0 +1,123 @@
+
+#box{
+    height: 236px;
+    width: 291px;
+    background-color: #D9D9D9 ;
+    opacity: 100%;
+}
+#research{
+    height: 47.63px;
+    width: 47.63px;
+}
+#discover{
+   height: 32px;
+    width: 180px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+#business{
+  height: 72px;
+    width: 249px;
+    color:#696969;
+ font-family: 'Poppins', sans-serif;
+     font-size:10.36px ;
+    font-weight: normal;
+    line-height: 17.8px;
+}
+#msgg{
+    height: 32px;
+    width: 209px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+
+#voice{
+    height: 72px;
+    width: 249px;
+    color:#696969;
+ font-family: 'Poppins', sans-serif;
+     font-size:10.36px ;
+    font-weight: normal;
+    line-height: 17.8px;
+}
+
+#starategy{
+ height: 46.91px;
+    width: 46.91px;
+}
+#strat{
+        height: 32px;
+    width: 122px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+#visual{
+ height: 45.01px;
+    width: 45.01px;
+}
+#vis{
+        height: 32px;
+    width: 116px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+#Position{
+ height: 40.71px;
+    width: 40.71;
+}
+#posit{
+    height: 32px;
+    width: 145px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+#expert{
+   height: 72px;
+    width: 249px;
+    color:#696969;
+ font-family: 'Poppins', sans-serif;
+     font-size:10.36px ;
+    font-weight: normal;
+    line-height: 17.8px;
+}
+#message{
+ height: 35.16px;
+    width: 64.94px;
+}
+#Design{
+ height: 49.08px;
+    width:40.31px;
+}
+#desig{
+    height: 32px;
+    width: 142px;
+    color: #201F1F;
+    font-family: 'Poppins';
+    font-size:16.1px ;
+    font-weight: medium;
+    letter-spacing: -2%;
+}
+#team{
+    height: 72px;
+    width: 249px;
+    color:#696969;
+ font-family: 'Poppins', sans-serif;
+     font-size:10.36px ;
+    font-weight: normal;
+    line-height: 17.8px;
+}
