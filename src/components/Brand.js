@@ -4,7 +4,7 @@ import fatima from '../assests/images/fatima.svg';
 import msg from '../assests/images/msg.svg';
 import Msg from './Msg';
 function Brand() {
-  const [showLogin, setShowLogin] = useState(true);
+  const [showLogin, setShowLogin] = useState(false);
   const handleClick = () => {
     setShowLogin(prev => !prev);
   };
