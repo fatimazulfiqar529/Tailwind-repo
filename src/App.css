@@ -1,1 +1,109 @@
+.nav-link {
+  color:gray;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: normal;
+}
+.nav-link:hover{
+    color:#B2F2BB;
+     font-family: 'Poppins';
+  font-weight: 500;
+  font-size: normal;
+  text-decoration: wavy;
+}
+
+#title{
+    color: white;
+}
+#home{
+    color: blue;
+     font-family: 'Poppins';
+  font-weight: 500;
+  font-size: normal;
+}
+#home:hover{
+color:#B2F2BB;
+ont-family: 'Poppins';
+  font-weight: 500;
+  font-size: normal;
+  text-decoration: wavy;
+}
+#button{
+    color:white;
+    border: 2px rgb(42, 42, 78) solid;
+    border-radius: 5px;
+    background-color: rgb(42, 42, 78);
+    font-family: 'Poppins';
+}
+#button:hover{
+    color: rgb(42, 42, 78);
+    background-color: white;
+    border: 2px white solid;
+
+}
+#btn{
+    color: white;
+    background-color: rgb(14, 10, 10);
+     border: 2px rgb(42, 42, 78) solid;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+#btn:hover{
+     color:rgb(14,10,10);
+    background-color: white;
+    border: 2px white solid;
+}
+#head{
+    background-color: rgb(40, 70, 70);
+    color:white;
+    border: 2px rgb(14, 17, 17) solid;
+    border-radius: 10px;
+    font-family: 'Poppins';
+}
+#icon{
+    color:rgb(42, 42, 78);
+    font-size:10px ;
+}
+#head:hover{
+    color:#8d3c05;
+    background-color: #31835b;
+    border:2px #C1F0D9 solid ;
+    border-radius: 10px;
+}
+#heading{
+    color: white;
+    font-weight:500 ;
+}
+#busniess{
+    text-decoration: underline white;
+    font-weight: 500;
+}
+#desc{
+    color: white;
+    font-family: 'inter';
+    width: 50%;
+}
+#start{
+    color:white;
+}
+#work{
+    color:white;
+}
+.second{
+  width: 100%;
+  max-width: 700px;
+}
+
+#image1 {
+  position: absolute;
+  width: 50%;
+  height: 60%;
+}
+#image2 {
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  width: 18%;
+  height: 30%;
+}
 
